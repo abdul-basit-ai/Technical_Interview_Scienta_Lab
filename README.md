@@ -58,7 +58,8 @@ The core classifier is a Transformer-based architecture adapted for tabular biol
 ### 5\. Confusion Matrix
 ## Accuracy 41.28%
 
-<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/02094993-e864-4ea3-9384-3c9dd468b1e1" />
+<img width="531" height="448" alt="image" src="https://github.com/user-attachments/assets/2461dce3-b27d-464e-994f-554c3e74ee31" />
+
 
 
 
