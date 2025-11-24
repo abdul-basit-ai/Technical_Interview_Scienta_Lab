@@ -1,4 +1,3 @@
-# Technical_Interview_Scienta_Lab
 I have put all the files related to the task given in the technical interview in this Github repo. Further more I will try to make a presentation to better present what I did.
 
 ## 1\. Data  Pipeline
@@ -55,10 +54,6 @@ The core classifier is a Transformer-based architecture adapted for tabular biol
 ### 4\. Training and Inference
 <img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/18713f7e-be0a-47a2-bc4e-939d775ec4c0" />
 
-### 5\. Confusion Matrix
-## Accuracy 41.28%
-
-<img width="531" height="448" alt="image" src="https://github.com/user-attachments/assets/2461dce3-b27d-464e-994f-554c3e74ee31" />
 
 
 
